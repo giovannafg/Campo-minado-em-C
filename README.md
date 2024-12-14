@@ -3,10 +3,10 @@
 Este é o repositório do trabalho em grupo que desenvolvemos no 1º semestre da faculdade. O objetivo principal era aprender mais sobre programação em C e trabalhar com matrizes e lógica de jogo. O código está aqui como registro do que fizemos na época e não pretendo melhorá-lo.
 
 Representação dos elementos principais:
-■: Casa fechada que ainda não foi aberta.
-□: Casa vazia (sem bombas vizinhas).
-🚩: Bandeira colocada pelo jogador para marcar uma casa suspeita de conter uma bomba.
-💥: Casa com bomba.
+- ■: Casa fechada que ainda não foi aberta.
+- □: Casa vazia (sem bombas vizinhas).
+- 🚩: Bandeira colocada pelo jogador para marcar uma casa suspeita de conter uma bomba.
+- 💥: Casa com bomba.
 Obs: É importante garantir que o ambiente de execução suporte UTF-8 ou UTF-16, dependendo do sistema operacional.
 
 
