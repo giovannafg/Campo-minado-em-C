@@ -6,7 +6,7 @@ Instruções de compilação e execução:
 No terminal, o jogador deve realizar os seguintes comandos:
 - gcc -c bomba.c -o bomba.o
 - gcc campominado.c bomba.o -o campominado
-- ./campominado
+- ./campominado <br/>
 Assim, conseguirá jogar campo minado em seu terminal.
 
 
@@ -14,7 +14,7 @@ Representação dos elementos principais:
 - ■: Casa fechada que ainda não foi aberta.
 - □: Casa vazia (sem bombas vizinhas).
 - 🚩: Bandeira colocada pelo jogador para marcar uma casa suspeita de conter uma bomba.
-- 💥: Casa com bomba.
+- 💥: Casa com bomba. <br/>
 Obs: É importante garantir que o ambiente de execução suporte UTF-8 ou UTF-16, dependendo do sistema operacional.
 
 
