@@ -7,7 +7,7 @@ Representação dos elementos principais:
 - □: Casa vazia (sem bombas vizinhas).
 - 🚩: Bandeira colocada pelo jogador para marcar uma casa suspeita de conter uma bomba.
 - 💥: Casa com bomba.
-Obs: É importante garantir que o ambiente de execução suporte UTF-8 ou UTF-16, dependendo do sistema operacional.
+- Obs: É importante garantir que o ambiente de execução suporte UTF-8 ou UTF-16, dependendo do sistema operacional.
 
 
 As funções implementadas estão localizadas na biblioteca bomba.h e são:
