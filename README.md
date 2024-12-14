@@ -1,9 +1,9 @@
 # Jogo Campo Minado em C
 
-Este é o repositório do trabalho em grupo que desenvolvemos no 1º semestre da faculdade. O objetivo principal era aprender mais sobre programação em C e trabalhar com matrizes e lógica de jogo. O código está aqui como registro do que fizemos na época e não pretendo melhorá-lo.
+  Este é o repositório do trabalho em grupo que desenvolvemos no 1º semestre da faculdade. O objetivo principal era aprender mais sobre programação em C e trabalhar com matrizes e lógica de jogo. O código está aqui como registro do que fizemos na época e não pretendo melhorá-lo.<br/>
 
-Instruções de compilação e execução:
-No terminal, o jogador deve realizar os seguintes comandos:
+Instruções de compilação e execução:<br/>
+No terminal, o jogador deve realizar os seguintes comandos:<br/>
 - gcc -c bomba.c -o bomba.o
 - gcc campominado.c bomba.o -o campominado
 - ./campominado <br/>
